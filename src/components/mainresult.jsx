@@ -7,7 +7,7 @@ import Filter from './Filter';
 class MainResult extends Component {
   constructor(props){
   	super(props);
-    console.log(props);
+  
   	this.state = {
       scrollPage:0,
 
