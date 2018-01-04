@@ -1,0 +1,125 @@
+.eachList {
+  border: 1px solid #cdcdcd;
+}
+.v-pannel {
+  border-radius: 2px;
+  background-color: #fff;
+  box-shadow: 0 2px 2px 0 rgba(0,0,0,.14), 0 3px 1px 0 rgba(0,0,0,.02), 0 1px 5px 0 rgba(0,0,0,.12);
+}
+.flt-wth {
+  float: left;
+  width: 100%;
+}
+.col-m-4 {
+  width: 32.33333333%;
+  float:left;
+}
+.u_wdth95p {
+  width: 95%;
+}
+.text-wrap {
+  overflow: hidden;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+}
+.u_marT75 {
+  margin-top: 75px;
+}
+.flt_heading {
+  color:#707070;
+  padding: 10px 0px 10px 15px;
+  width: 20%;
+  border: 1px solid #cdcdcd;
+  border-bottom: none;
+}
+.filter-bar {
+  float: left;
+  width: 20%;
+  border: 1px solid #cdcdcd;
+  padding: 10px;
+}
+.filter-bar::after {
+  clear:both;
+}
+.u_mar3 {
+  margin: 3px;
+}
+.result-bar {
+  float: right;
+  width: 80%;
+}
+.package-details {
+  padding-left: 10px;
+  border-top: 1px solid #cdcdcd;
+  padding-top: 5px;
+}
+.result-bar img {
+  height: 290px;
+  border-top-left-radius: 2px;
+  border-top-right-radius: 2px;
+}
+.u_invisible {
+  display: none;
+}
+.sortBase {
+  display: flex;
+  margin-top: -30px;
+  justify-content: flex-end;
+}
+.activeClass {
+  border-bottom: 3px solid #ed1c24;
+}
+.checkboxSpan {
+  height: 14px;
+  width: 14px;
+  display: inline-block;
+  position: relative;
+  top: 2px;
+  background-repeat: no-repeat;
+  border: 1px solid #a4a4a4;
+  border-radius: 3px;
+  margin-right: 12px;
+}
+.customCheckBox:checked+span {
+  background-image: url(/Users/AVINASH/Downloads/check-mark-1292787_640);
+  background-size: 12px 8px;
+  border-color: #ed54a4;
+  background-color: #ed54a4;
+  background-position: 0 2px;
+}
+.img-responsive {
+    width: 100%;
+}
+.result-bar::after {
+  clear:both;
+}
+.u_padL10 {
+  padding-left: 10px;
+}
+.u_font12 {
+  font-size: 12px;
+}
+.u_font14 {
+  font-size: 14px;
+}
+.u_fontWb {
+  font-weight: bold;
+}
+.u_fontW400 {
+  font-weight: 400;
+}
+.u_clLtGrey {
+  color: #707070;
+}
+.u_cursPoint {
+  cursor: pointer;
+}
+.u_clear {
+  clear: both;
+}
+.u_pad8 {
+  padding: 8px;
+}
+.u_textc {
+  text-align: center
+}
