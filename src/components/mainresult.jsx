@@ -1,8 +1,8 @@
 import React,{Component} from 'react';
 import { connect } from 'react-redux';
 import {fetchProductList,filterBrandData} from '../actions/index';
-import EachList from '../components/eachlist';
-import Filter from '../components/Filter';
+import EachList from './eachlist';
+import Filter from './Filter';
 
 class MainResult extends Component {
   constructor(props){
